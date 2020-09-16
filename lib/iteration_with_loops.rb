@@ -9,6 +9,7 @@ def join_nested_strings(src)
       end
     }
   }
+  value = value.pop()
   puts value
   value
 end
