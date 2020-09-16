@@ -9,5 +9,6 @@ def join_nested_strings(src)
       end
     }
   }
+  puts value
   value
 end
